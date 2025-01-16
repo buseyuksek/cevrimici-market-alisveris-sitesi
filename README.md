@@ -13,4 +13,4 @@ Bu proje, Python dilinde nesne yönelimli programlama (OOP) tekniklerini kullana
 
 - **main.py**: Kullanıcı menüsünü çalıştırır ve Market sınıfını kullanır.
 - **market.py**: Market sınıfını tanımlar ve ürünlerle ilgili işlemleri içerir.
-- **product.txt**: Ürün bilgilerinin saklandığı dosya. Örnek format:
+- **product.txt**: Ürün bilgilerinin saklandığı dosya. 
